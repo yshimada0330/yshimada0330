@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yshimada0330/yshimada0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yshimada0330&count_private=true&show_icons=tru&theme=nord&hide=contribs,issues)](https://github.com/yshimada0330/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yshimada0330&count_private=true&show_icons=tru&theme=nord&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yshimada0330&layout=compact&theme=nord)](https://github.com/yshimada0330/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yshimada0330&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
